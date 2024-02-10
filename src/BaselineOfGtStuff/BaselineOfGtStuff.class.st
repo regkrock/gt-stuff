@@ -25,6 +25,6 @@ BaselineOfGtStuff >> baseline: spec [
 		^ spec for: #common do: [
 			spec 
 				package: 'GtStuff';
-				package: 'GtStuff2'
+				package: 'GtStuff2'  with: [ spec requires: #('GtStuff') ]
 		]
 ]

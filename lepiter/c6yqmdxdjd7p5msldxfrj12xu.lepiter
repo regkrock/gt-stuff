@@ -205,7 +205,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2024-02-09T14:47:38.288873-05:00"
+						"dateAndTimeString" : "2024-02-09T22:06:03.142117-05:00"
 					}
 				},
 				"uid" : {
@@ -215,7 +215,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "{{gtTodo:label=Learn how to create a todo|completed=2024-02-09|due=2024-02-14}}\n{{gtTodo:label=Learned|due=2024-02-15|completed=2024-02-09}}\n\n\nMethod: {{gtMethod:name=HelloWorld>>helloToYou}}\nPackage: {{gtPackage:name=GtStuff}}\n\nPage Connection: {{gtPage:Seeting Up GitHub Connections}}"
+				"string" : "{{gtTodo:label=Learn how to create a todo|completed=2024-02-09|due=2024-02-14}}\n{{gtTodo:label=Learned|due=2024-02-15|completed=2024-02-09}}\n\n\nMethod: {{gtMethod:name=HelloWorld>>hello}}\nPackage: {{gtPackage:name=GtStuff}}\n\nPage Connection: {{gtPage:Seeting Up GitHub Connections}}"
 			},
 			{
 				"__type" : "textSnippet",
@@ -419,7 +419,7 @@
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "GtStuff"
+		"title" : "GtStuff New"
 	},
 	"uid" : {
 		"__type" : "uuid",
