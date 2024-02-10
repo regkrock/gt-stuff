@@ -6,5 +6,5 @@ Class {
 
 { #category : #accessing }
 HelloWorld >> hello [
-	^'Hello'
+	^'Hello, mon ami'
 ]
