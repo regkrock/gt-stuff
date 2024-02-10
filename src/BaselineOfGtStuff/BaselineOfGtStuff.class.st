@@ -23,6 +23,8 @@ BaselineOfGtStuff class >> loadLepiter [
 BaselineOfGtStuff >> baseline: spec [
 	<baseline>
 		^ spec for: #common do: [
-			spec package: 'GtStuff'
+			spec 
+				package: 'GtStuff';
+				package: 'GtStuff2'
 		]
 ]
